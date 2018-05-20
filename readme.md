@@ -63,6 +63,6 @@ Text from the player bar:  Awakening
 
 ## Authors
 
-* **Chuma Menziwa** - *Initial work* - [PurpleBooth](https://github.com/menziwac)
+* **Chuma Menziwa** - *Initial work* - [Chuma](https://github.com/menziwac)
 
 See also the list of [contributors](https://github.com/menziwac/appiumtests/contributors) who participated in this project.
